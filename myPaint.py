@@ -5,7 +5,7 @@ import numpy as np
 def nothing():
     pass
 
-
+'''
 class _drawLine:
     def __init__(self):
         self.ix = 0; self.iy = 0; self.oldx = 0; self.oldy = 0; self.draw = False
@@ -61,6 +61,7 @@ def myPaint2():
 
 #global img, r, g, b
 #def __init__(self):
+'''
 
 def drawLine(event, x, y, flags, param):
     #print(b, g, r)
